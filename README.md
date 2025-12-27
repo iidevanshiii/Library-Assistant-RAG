@@ -39,7 +39,7 @@ Library-Assistant-RAG/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/idevanshiii/Library-Assistant-RAG.git
+git clone https://github.com/iidevanshiii/Library-Assistant-RAG.git
 cd Library-Assistant-RAG
 ```
 
