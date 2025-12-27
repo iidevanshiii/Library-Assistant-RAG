@@ -1,0 +1,92 @@
+[
+  {
+    "book_title": "Second IEEE Annual Conference on Pervasive Computing and Communications : proceedings...",
+    "call_number": "001.64 In7S",
+    "author": "N/A",
+    "publication": "Published by IEEE in c2004",
+    "summary": "This book is a collection of academic papers (proceedings) from a conference held in 2004. The content focuses on \"pervasive computing,\" which is the idea of computers being embedded everywhere in the environment (also known as ubiquitous computing or the Internet of Things). The papers likely discuss research on topics like mobile devices, sensor networks, and smart environments.",
+    "chapters": [
+      { "title": "Seamless mobility: in pursuit of the holy grail", "summary": "Abstract not found. This is an individual paper from the conference." },
+      { "title": "Labscape: pervasive computing in the biology laboratory", "summary": "Abstract not found. This is an individual paper from the conference." },
+      { "title": "Learning to Detect User Activity and Availability from a Variety of Sensor Data", "summary": "Abstract not found. This is an individual paper from the conference." },
+      { "title": "Drishti: An Integrated Indoor/Outdoor Blind Navigation System and Service", "summary": "Abstract not found. This is an individual paper from the conference." },
+      { "title": "A Software Engineering Framework for Context-Aware Pervasive Computing", "summary": "Abstract not found. This is an individual paper from the conference." },
+      { "title": "A 3-D Indoor Positioning Method using a Single Compact Base Station", "summary": "Abstract not found. This is an individual paper from the conference." },
+      { "title": "Cooperative Location-Sensing for Wireless Networks", "summary": "Abstract not found. This is an individual paper from the conference." },
+      { "title": "Energy-Aware Media Transcoding in Wireless Systems", "summary": "Abstract not found. This is an individual paper from the conference." },
+      { "title": "Distributed Snapshots for Mobile Computing Systems", "summary": "Abstract not found. This is an individual paper from the conference." },
+      { "title": "Semantic Web in the Context Broker Architecture", "summary": "Abstract not found. This is an individual paper from the conference." },
+      { "title": "Denial-of-Service Attacks on Battery-powered Mobile Computers", "summary": "Abstract not found. This is an individual paper from the conference." }
+    ]
+  },
+  {
+    "book_title": "Mastering Java a beginners guide",
+    "call_number": "001.6424 Uz1M",
+    "author": "Sufyan bin Uzayr",
+    "publication": "published by CRC Press in 2022",
+    "summary": "This is an introductory guide for learning the Java programming language. It is designed for beginners and covers the fundamental concepts, syntax, and tools needed to start developing applications.",
+    "chapters": [
+      { "title": "Chapter 1: Introduction to Java", "summary": "Introduces the Java programming language, its history, key features (like platform independence and 'Write Once, Run Anywhere'), and its relevance. It explains the differences between the JDK, JRE, and JVM." },
+      { "title": "Chapter 2: Getting Started with Java", "summary": "Covers the basic syntax of Java, including how to write a 'Hello, World!' program. It introduces classes, methods, variables, primitive data types, operators, and how to set up a development environment (IDE)." },
+      { "title": "Chapter 3: Object-Oriented Programming", "summary": "Explains the core concepts of Object-Oriented Programming (OOP), including classes, objects, inheritance, polymorphism, abstraction, and encapsulation, and how they are implemented in Java." },
+      { "title": "Chapter 4: Control Structures", "summary": "Details the control flow statements in Java, including decision-making (if, if-else, switch) and looping (for, while, do-while), as well as jump statements (break, continue)." },
+      { "title": "Chapter 5: Java String", "summary": "Focuses on the `String` class, its immutability, and common methods. It also introduces the mutable alternatives, `StringBuffer` and `StringBuilder`, for efficient string manipulation." },
+      { "title": "Chapter 6: Java Array", "summary": "Introduces arrays as a fundamental data structure for storing collections of elements. It covers array declaration, instantiation, initialization, and how to pass arrays to methods." },
+      { "title": "Chapter 7: Java Collections Framework (List, Set, Map)", "summary": "Provides an overview of the Java Collections Framework, focusing on the main interfaces: `List` (like `ArrayList`), `Set` (like `HashSet`), and `Map` (like `HashMap`), and their common operations." }
+    ]
+  },
+  {
+    "book_title": "Mastering github pages a beginner's guide",
+    "call_number": "001.64404 Uz1M",
+    "author": "Sufyan bin Uzayr",
+    "publication": "published by CRC Press in 2022",
+    "summary": "This book teaches users how to use GitHub Pages, a service that allows you to host a website directly from a GitHub code repository.",
+    "chapters": [
+      { "title": "Chapter 1: Understanding GitHub Pages", "summary": "" },
+      { "title": "Chapter 2: Working with GitHub", "summary": "" },
+      { "title": "Chapter 3: Creating GitHub Pages", "summary": "" },
+      { "title": "Chapter 4: Working with Jekyll", "summary": "" },
+      { "title": "Chapter 5: Exploring Liquid", "summary": "" },
+      { "title": "Chapter 6: Advanced GitHub Pages", "summary": "" }
+    ]
+  },
+  {
+    "book_title": "Introduction to computer science",
+    "author": "Noel Kalicharan",
+    "chapters": [
+      { "title": "Chapter 1: An Introduction to Computers and Computing", "summary": "" },
+      { "title": "Chapter 2: A Brief History of Computers", "summary": "" },
+      { "title": "Chapter 3: The Problem-Solving Process", "summary": "" },
+      { "title": "Chapter 4: Data", "summary": "" },
+      { "title": "Chapter 5: Algorithms", "summary": "" },
+      { "title": "Chapter 6: The Basics of C", "summary": "" },
+      { "title": "Chapter 7: Selection", "summary": "" },
+      { "title": "Chapter 8: Repetition", "summary": "" },
+      { "title": "Chapter 9: Functions", "summary": "" },
+      { "title": "Chapter 10: Arrays and Strings", "summary": "" },
+      { "title": "Chapter 11: Pointers", "summary": "" },
+      { "title": "Chapter 12: Structures", "summary": "" },
+      { "title": "Chapter 13: File Processing", "summary": "" },
+      { "title": "Chapter 14: Data Structures", "summary": "" },
+      { "title": "Chapter 15: Object-Oriented Programming", "summary": "" }
+    ]
+  },
+  {
+    "book_title": "Selected papers on computer science",
+    "author": "D.E. Knuth",
+    "chapters": [
+      { "title": "Computer Science and its Relation to Mathematics", "summary": "Explains how computer science both draws upon and inspires new developments in mathematics." },
+      { "title": "Mathematics and Computer Science: Coping with Finiteness", "summary": "Discusses theoretical and practical challenges arising from finite computation compared to infinite mathematical constructs." },
+      { "title": "Algorithms", "summary": "Defines and explores the nature of algorithms and their role in computer science." },
+      { "title": "Algorithms in Modern Mathematics and Computer Science", "summary": "Discusses algorithmic thinking and its influence across mathematics." },
+      { "title": "Algorithmic Themes", "summary": "Identifies recurring patterns like recursion and iteration across algorithms." },
+      { "title": "Theory and Practice (I, II, III, IV)", "summary": "Transcribed talks on the link between theoretical and practical computer science." },
+      { "title": "Are Toy Problems Useful?", "summary": "Defends the use of simple illustrative problems in teaching and developing CS concepts." },
+      { "title": "Ancient Babylonian Algorithms", "summary": "Explores early historical examples of algorithmic reasoning." },
+      { "title": "Von Neumann's First Computer Program", "summary": "Analyzes John von Neumann’s first program — a sorting algorithm." },
+      { "title": "The IBM 650: An Appreciation from the Field", "summary": "Reflects on experiences programming early IBM computers." },
+      { "title": "Artistic Programming", "summary": "Explores literate programming — writing code as literature for humans." },
+      { "title": "George Forsythe and the Development of Computer Science", "summary": "Pays tribute to George Forsythe’s role in establishing computer science as a discipline." }
+    ]
+  }
+]
