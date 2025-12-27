@@ -26,11 +26,11 @@ Library-Assistant-RAG/
 ├── README.md               # Project documentation
 │
 ├── data/                   # Library dataset (JSON files)
-│   ├── Devanshi data new.json
-│   ├── Goutham data new.json
-│   ├── Harish data new.json
-│   ├── Rakesh data new.json
-│   └── vaishnavi data new.json
+│   ├── Statistics Data.json
+│   ├── Machine Learning and Statistics Data.json
+│   ├── Management Data.json
+│   ├── Political Science Data.json
+│   └── Computer Science Data.json
 ```
 
 ---
