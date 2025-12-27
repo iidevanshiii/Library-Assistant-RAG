@@ -22,12 +22,13 @@ print(f"Created new, empty collection: {collection_name}")
 # --- 3. Define Your 5 Data Files ---
 # Add all your new file names to this list
 data_files = [
-    "Harish data new.json",
-    "Goutham data new.json",
-    "Vaishnavi data new.json",
-    "Devanshi data new.json",
-    "Rakesh data new.json"
+    "data/Harish data new.json",
+    "data/Goutham data new.json",
+    "data/Vaishnavi data new.json",
+    "data/Devanshi data new.json",
+    "data/Rakesh data new.json"
 ]
+
 
 documents_to_add = []
 metadata_to_add = []
@@ -102,4 +103,5 @@ if documents_to_add:
     print(f"Total documents indexed in '{collection_name}': {collection.count()}")
 else:
     print("No valid documents with summaries were found to index.")
+
     
