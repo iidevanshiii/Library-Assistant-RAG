@@ -1,0 +1,191 @@
+[
+    {
+        "Call Number": "519.535 Iz2M",
+        "Book Title": "Modern multivariate statistical techniques regression, classification, and manifold learning by Alan Julian Izenman.",
+        "Publication": "New York : Springer , 2008.",
+        "Author": "Izenman, Alan Julia.",
+        "Summary": "A near-encyclopedic account of topics under regression, classification, cluster analysis, and low-dimensional representation, with a strong statistical learning perspective.",
+        "Chapters": [
+            {
+                "Chapter Summary": "This book blends classical and modern multivariate statistical techniques, mixing theory with applications for regression, classification, clustering, and manifold learning. It incorporates modern algorithmic approaches from data mining and machine learning, presenting integrated methods and comprehensive statistical frameworks for analyzing large multivariate datasets. Examples use novel data sets, and each chapter includes historical notes and computational details to help readers understand both theoretical development and practical implementation."
+            }
+        ]
+    },
+    {
+        "Call Number": "574/.01/51",
+        "Book Title": "A handbook of numerical and statistical techniques with examples mainly from the life sciences / J.H. Pollard.",
+        "Publication": "Amsterdam: Elsevier Academic Press, 2009.",
+        "Author": "Pollard, J. H., author.",
+        "Summary": "Designed for experimental scientists, particularly in the life sciences. It is for the non-specialist and is divided into three parts: numerical techniques, statistical techniques, and the method of least squares.",
+        "Chapters": [
+            {
+                "Chapter Name": "Part I. Basic numerical techniques: 1. Introduction",
+                "Chapter Summary": "Introduces the book's approach to numerical problem solving for scientists, covering basic definitions, context, and the importance of numerical techniques for data analysis."
+            },
+            {
+                "Chapter Name": "2. Errors, mistakes and the arrangement of work",
+                "Chapter Summary": "Explains sources of errors in experimental work and computational procedures, methods for minimizing mistakes, and best practices for organizing scientific tasks."
+            },
+            {
+                "Chapter Name": "3. The real roots of non-linear equations",
+                "Chapter Summary": "Covers methods for finding real roots of non-linear equations, providing step-by-step problem-solving techniques suitable for programmable calculators and computers."
+            },
+            {
+                "Chapter Name": "4. Simple methods for smoothing crude data",
+                "Chapter Summary": "Discusses techniques for smoothing raw or noisy data, focusing on numerical processes that improve data quality for subsequent analysis."
+            },
+            {
+                "Chapter Name": "5. The area under a curve",
+                "Chapter Summary": "Explains manual and computational methods to estimate and calculate the area under various curves in scientific data contexts."
+            },
+            {
+                "Chapter Name": "6. Finite differences, interpolation and numerical differentiation",
+                "Chapter Summary": "Presents fundamentals of finite difference methods and interpolation, with practical steps for performing numerical differentiation and improving calculation accuracy."
+            },
+            {
+                "Chapter Name": "7. Some other numerical techniques",
+                "Chapter Summary": "Introduces additional numerical methods not covered elsewhere, emphasizing tools and approaches for solving special cases and complex problems."
+            },
+            {
+                "Chapter Name": "Part II. Basic Statistical techniques: 8. Probability, statistical distributions and moments",
+                "Chapter Summary": "Reviews probability theory and key statistical distributions, introducing moments and their role in data characterization and inference."
+            },
+            {
+                "Chapter Name": "9. The normal and related distributions",
+                "Chapter Summary": "Focuses on the normal distribution and its relatives, discussing their properties and frequent applications in statistical analysis."
+            },
+            {
+                "Chapter Name": "10. The common discrete distributions",
+                "Chapter Summary": "Describes widely-used discrete probability distributions, including binomial, Poisson, and negative binomial distributions, with formulas and use cases."
+            },
+            {
+                "Chapter Name": "11. The Pearson system of probability-density functions",
+                "Chapter Summary": "Explains the Pearson system for classifying probability density functions and highlights its analytic utility and mathematical basis."
+            },
+            {
+                "Chapter Name": "12. Hypothesis testing",
+                "Chapter Summary": "Provides groundwork for hypothesis testing, introducing statistical techniques and decision-making for verifying scientific claims."
+            },
+            {
+                "Chapter Name": "13. Point and interval estimation",
+                "Chapter Summary": "Explores the calculation of point and interval estimates for population parameters, with practical steps and illustrative examples."
+            },
+            {
+                "Chapter Name": "14. Some special statistical techniques",
+                "Chapter Summary": "Covers specialized statistical methods tailored to specific experimental designs and scientific tasks."
+            },
+            {
+                "Chapter Name": "Part III. The method of least squares: 15. Simple linear regression and the method of least squares",
+                "Chapter Summary": "Describes the principles and procedures of simple linear regression using least squares, with emphasis on interpretation and application."
+            },
+            {
+                "Chapter Name": "16. Curvilinear regression",
+                "Chapter Summary": "Explores curvilinear regression modeling, step-by-step approaches for fitting and evaluating non-linear relationships in data."
+            },
+            {
+                "Chapter Name": "17. Multiple linear regression",
+                "Chapter Summary": "Details theory and practice of fitting and interpreting multiple linear regression models with several independent variables."
+            },
+            {
+                "Chapter Name": "18. Non-linear regression",
+                "Chapter Summary": "Discusses techniques for modeling and inferring non-linear relationships, including parameter estimation and validation."
+            }
+        ]
+    },
+    {
+        "Call Number": "610.72 M58S",
+        "Book Title": "Statistics in medical research methods and issues with applications in cancer research by Valerie Mike and Kenneth E. Stanley",
+        "Publication": "New York John Wiley 1982",
+        "Author": "Mike, Valerie",
+        "Summary": "Based on lectures from a conference on statistics in cancer research, this book offers a comprehensive overview of biostatistics, applicable to many areas of medical investigation.",
+        "Chapters": []
+    },
+    {
+        "Call Number": "519.5 L32I",
+        "Book Title": "Introduction to mathematical statistics and its applications, by Richard J. Larsen and Morris L. Marx",
+        "Publication": "Englewood Cliffs Prentice Hall c1986",
+        "Author": "Larsen, Richard J.",
+        "Summary": "Using high-quality, real-world case studies and examples, this introduction to mathematical statistics shows how to use statistical methods and when to use them.",
+        "Chapters": []
+    },
+    {
+        "Call Number": "519.5 K14S",
+        "Book Title": "Statistics for data scientists an introduction to probability, statistics, and data analysis by Maurits Kaptein and Edwin van den Heuvel",
+        "Publication": "Cham, Switzerland: Springer Pub., 2022.",
+        "Author": "Kaptein, Maurits",
+        "Summary": "Provides an undergraduate introduction to analysing data for data science. It combines a hands-on approach to data analysis with a rigorous treatment of probability and statistical principles.",
+        "Chapters": []
+    },
+    {
+        "Call Number": "519.535 M67C",
+        "Book Title": "Core Concepts In data Analysis :Summarization Correlation and Visualization",
+        "Publication": "London: Springer, 2011",
+        "Author": "Mirkin,Boris",
+        "Summary": "Examines the goals of data analysis, identifying data summarization and correlation analysis as core issues. It treats summarization (both quantitative and categorical) within an encoder-decoder paradigm.",
+        "Chapters": []
+    },
+    {
+        "Call Number": "519.50285 Ef78C",
+        "Book Title": "Computer age statistical inference algorithms, evidence, and data science by Braley Efron and Trevor Hastie",
+        "Publication": "New Delhi: Cambridge University Press, 2021.",
+        "Author": "Efron, Bradley",
+        "Summary": "A journey through the revolution in data analysis following the introduction of electronic computation. It begins with classical inferential theories (Bayesian, frequentist, Fisherian) and covers influential topics like survival analysis, logistic regression, bootstrap, random forests, and neural networks.",
+        "Chapters": []
+    },
+    {
+        "Call Number": "519.53 B66M",
+        "Book Title": "Model-based clustering and classification for data science with applications in R by Charles Bouveyron, Giles Celeux, T. Brendan and Adrian E. Raftery",
+        "Publication": "New Delhi: Cambridge University Press, 2019.",
+        "Author": "Bouveyron, Charles",
+        "Summary": "Frames cluster analysis and classification in terms of statistical models, yielding principled methods for estimation, testing, and prediction. It provides sound answers to central questions like 'how many clusters are there?' and 'which method should I use?'.",
+        "Chapters": []
+    },
+    {
+        "Call Number": "519.54 Ag82C",
+        "Book Title": "Categorical data analysis",
+        "Publication": "New York: Wil-Inter science, 2002.",
+        "Author": "Agresti,Alan",
+        "Summary": "A comprehensive introduction to the most important methods for categorical data analysis. It covers inference for binomial and multinomial parameters, contingency tables, generalized linear models, logistic regression, and loglinear models.",
+        "Chapters": []
+    },
+    {
+        "Call Number": "001.6424 B83P",
+        "Book Title": "Practical statistics for data scientists 50+ essential concepts using R and Python by Peter Bruce, Andrew Bruce and Peter Gedeck",
+        "Publication": "New Delhi: Shroff Publishers, 2022.",
+        "Author": "Bruce, Peter",
+        "Summary": "This book provides a fundamental background in Exploratory Data Analysis (EDA), regression, classification, and clustering. It emphasizes key ideas for data scientists using R and Python.",
+        "Chapters": []
+    },
+    {
+        "Call Number": "519.5 B73S",
+        "Book Title": "Statistical and computational methods in data analysis",
+        "Publication": "Amsterdam North-Holland Publishing Company 1983",
+        "Author": "Brandt, Siegmund",
+        "Summary": "Covers core topics including probabilities, random variables, important distributions, sampling, the method of maximum likelihood, hypothesis testing, and the method of least squares.",
+        "Chapters": []
+    },
+    {
+        "Call Number": "519.50285 M11I",
+        "Book Title": "Introduction to secondary data analysis with IBM SPSS statistics by John Maclnnes",
+        "Publication": "New Delhi: Sage, 2017.",
+        "Author": "Maclnnes, John",
+        "Summary": "A comprehensive introduction to locating, accessing, preparing, and analysing secondary data. It provides step-by-step instructions for using IBM SPSS Statistics to manage and analyze data to produce meaningful results.",
+        "Chapters": []
+    },
+    {
+        "Call Number": "610.72 L49S",
+        "Book Title": "Statistical methods for survival data analysis by Elisa T.Lee and John Wenyu Wang",
+        "Publication": "New Jersey: John Wiley, 2003.",
+        "Author": "Lee, Elisa T.",
+        "Summary": "A comprehensive textbook covering major concepts and techniques of survival analysis. It includes nonparametric methods (like product-limit and life-table analysis), parametric survival distributions (like Exponential and Weibull), and the Cox proportional hazards model.",
+        "Chapters": []
+    },
+    {
+        "Call Number": "519.535 Ed95M",
+        "Book Title": "Multiple regression and the analysis of variance and covariance",
+        "Publication": "New York W.H. Freeman 1979",
+        "Author": "Edwards, Allen L.",
+        "Summary": "Shows the correspondence between the analysis of variance (ANOVA) and multiple regression analysis of experimental data. It is intended for students who have had a course in ANOVA and wish to see these relationships.",
+        "Chapters": []
+    }
+]

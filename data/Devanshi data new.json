@@ -1,0 +1,52 @@
+[
+    {
+        "Book Title": "Statistical Decision Theory and Bayesian Analysis",
+        "Author": "J. O. Berger\nA rigorous, graduate-level treatment linking decision theory and Bayesian inference. Covers loss functions, admissibility, minimaxity, complete classes, hierarchical/empirical Bayes, and foundations of Bayesian decision-making.\nKey strengths & uses:\n• Deep theoretical foundations connecting decisions and inference.\n• Comprehensive on admissibility and decision‑theoretic results.\n• Excellent as a reference for advanced Bayesian theory.\nRecommended level: Advanced (graduate/research)",
+        "Summary": "Statistical Inference — George Casella & Roger L. Berger\nA modern, mathematically rigorous introduction to statistical inference. Topics include probability review, estimation, testing, likelihood methods, decision theory, asymptotics, and Bayesian methods.\nKey strengths & uses:\n• Well organized and thorough for theory courses.\n• Balanced coverage of frequentist and Bayesian ideas.\n• Good exercises and theoretical proofs.\nRecommended level: Advanced (graduate/upper‑undergraduate)"
+    },
+    {
+        "Book Title": "All of Statistics: A Concise Course in Statistical Inference",
+        "Author": "Larry Wasserman\nA compact, broad textbook covering probability, estimation, testing, nonparametrics, bootstrapping, density estimation, and classification — designed to quickly equip readers with essential statistical tools.\nKey strengths & uses:\n• Great breadth in a single volume.\n• Accessible to mathematically mature readers.\n• Popular with data scientists and CS students.\nRecommended level: Intermediate to Advanced (self‑study)",
+        "Summary": "Introduction to the Theory of Statistics — Mood, Graybill & Boes\nA classical text presenting probability and statistical inference with clear derivations. Emphasizes theoretical development of estimation, hypothesis testing, and sampling distributions.\nKey strengths & uses:\n• Classic presentation of sampling distributions and classical inference.\n• Detailed worked examples.\n• Good historical and foundational perspective.\nRecommended level: Intermediate (undergraduate/early graduate)"
+    },
+    {
+        "Book Title": "Mathematical Statistics with Applications",
+        "Author": "Wackerly, Mendenhall & Scheaffer\nA widely used textbook combining theory and applied examples. Covers probability, estimation, hypothesis testing, regression, ANOVA, and practical data analysis with exercises and applications.\nKey strengths & uses:\n• Balances theory and application for students.\n• Numerous examples and exercises.\n• Friendly exposition for applied courses.\nRecommended level: Undergraduate to Intermediate",
+        "Summary": "Theoretical Statistics — D. R. Cox & D. V. Hinkley\nA compact, elegantly written book focusing on likelihood-based inference and asymptotic theory. Emphasizes conceptual clarity and the role of the likelihood in statistical practice.\nKey strengths & uses:\n• Clear treatment of likelihood methods and asymptotics.\n• Philosophical and practical insights from leading statisticians.\n• Concise but deep — great for building intuition.\nRecommended level: Advanced (graduate/research)"
+    },
+    {
+        "Book Title": "Theory of Point Estimation",
+        "Author": "Erich L. Lehmann & George Casella\nAn authoritative reference on point estimation covering unbiasedness, sufficiency, completeness, estimation bounds, Bayes and minimax estimators, and asymptotic methods.\nKey strengths & uses:\n• Comprehensive theory of estimation.\n• Rigorous proofs and advanced results.\n• Essential reference for theoretical statisticians.\nRecommended level: Advanced (graduate/research)",
+        "Summary": "Testing Statistical Hypotheses — Erich L. Lehmann & Joseph P. Romano\nA definitive treatment of hypothesis testing theory: Neyman–Pearson lemma, likelihood ratio tests, UMP tests, multiple testing, and asymptotic approaches.\nKey strengths & uses:\n• Foundational coverage of testing theory.\n• Formal treatment of optimality and power.\n• Valuable for both theory and applied methodology.\nRecommended level: Advanced (graduate/research)"
+    },
+    {
+        "Book Title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction",
+        "Author": "Hastie, Tibshirani & Friedman\nA comprehensive book on modern predictive modeling and machine learning: linear methods, trees, boosting, SVMs, kernels, ensemble methods, and unsupervised learning, with an applied and algorithmic focus.\nKey strengths & uses:\n• Excellent breadth on machine learning algorithms.\n• Combines intuition with mathematical detail.\n• Extensive examples and applications in R.\nRecommended level: Intermediate to Advanced (applied/ML focus)",
+        "Summary": "Probability and Statistics — DeGroot & Schervish\nA unified book that introduces probability theory and statistical inference with clarity; covers Bayesian methods, decision theory, estimation, testing, and stochastic processes.\nKey strengths & uses:\n• Well‑balanced treatment of probability and inference.\n• Good for courses bridging probability and applied statistics.\n• Clear examples and exercises.\nRecommended level: Undergraduate to Intermediate"
+    },
+    {
+        "Book Title": "An Introduction to Probability Theory and Its Applications",
+        "Author": "William Feller (Vol. I & II)\nA two‑volume classic offering deep, rigorous, and often playful exposition of probability theory with many examples, limit theorems, combinatorial probability, and stochastic processes.\nKey strengths & uses:\n• Masterful and rigorous treatment of probability.\n• Rich set of problems and classical examples.\n• Historically influential and elegant.\nRecommended level: Advanced (mathematical/probability focus)",
+        "Summary": "Introduction to Mathematical Statistics — Hogg, McKean & Craig\nA solid textbook presenting probability and statistical inference with emphasis on computation, distributions, estimation, and hypothesis testing, often used in undergraduate/first-year graduate courses.\nKey strengths & uses:\n• Clear exposition and practical examples.\n• Good balance of theory and applied exercises.\n• Widely adopted for core statistics courses.\nRecommended level: Undergraduate to Intermediate"
+    },
+    {
+        "Book Title": "Bayesian Data Analysis",
+        "Author": "Gelman, Carlin, Stern, Dunson, Vehtari & Rubin\nA comprehensive, pragmatic guide to Bayesian methods: modeling, hierarchical models, MCMC computation, model checking, and applied examples across sciences.\nKey strengths & uses:\n• Practical focus on modeling and computation.\n• Extensive real‑world examples and case studies.\n• Covers modern Bayesian workflow and diagnostics.\nRecommended level: Intermediate to Advanced (applied Bayesian)",
+        "Summary": "Survey Sampling — Leslie Kish\nA classical, practical text on survey sampling design and estimation: simple, stratified, cluster, and multistage sampling; weighting; variance estimation; and design effects.\nKey strengths & uses:\n• Authoritative on survey design and practical sampling issues.\n• Focus on design-based inference and real surveys.\n• Classic reference for survey practitioners.\nRecommended level: Intermediate (survey methodology)"
+    },
+    {
+        "Book Title": "Sampling Techniques",
+        "Author": "William G. Cochran\nA foundational text on sampling methodology covering design, estimation, stratification, cluster sampling, and practical implementation of sampling plans.\nKey strengths & uses:\n• Clear theoretical and practical coverage of sampling.\n• Widely used in survey and sampling courses.\n• Good worked examples and formulas for practitioners.\nRecommended level: Intermediate (survey/sample design)",
+        "Summary": "Design and Analysis of Experiments — Douglas C. Montgomery\nA practical and accessible guide to experimental design: factorial designs, ANOVA, blocking, randomization, response surface methods, and industrial applications.\nKey strengths & uses:\n• Very applied with engineering/industrial examples.\n• Step‑by‑step guidance for designing experiments.\n• Useful for both students and practicing engineers/statisticians.\nRecommended level: Undergraduate to Intermediate (applied)"
+    },
+    {
+        "Book Title": "Applied Multivariate Statistical Analysis",
+        "Author": "Johnson & Wichern\nA comprehensive exposition of multivariate methods: multivariate normal theory, MANOVA, principal components, factor analysis, clustering, discriminant analysis, and canonical correlation.\nKey strengths & uses:\n• Thorough coverage of multivariate techniques.\n• Mathematical detail plus applied examples.\n• Standard graduate course text in multivariate analysis.\nRecommended level: Advanced (multivariate methods)",
+        "Summary": "Time Series Analysis: Forecasting and Control — Box, Jenkins, Reinsel & Ljung\nThe canonical applied text on time series modeling and forecasting: ARIMA, model identification, estimation, diagnostic checking, and forecasting practice; includes Box–Jenkins methodology.\nKey strengths & uses:\n• Practical, hands‑on approach to time series.\n• Strong emphasis on model building and diagnostics.\n• Widely used by forecasters in industry and academia.\nRecommended level: Intermediate to Advanced (time series)"
+    },
+    {
+        "Book Title": "Categorical Data Analysis",
+        "Author": "Alan Agresti\nA thorough treatment of methods for analyzing categorical data: contingency tables, logistic regression, log‑linear models, multinomial responses, and model diagnostics.\nKey strengths & uses:\n• Comprehensive coverage of categorical models and inference.\n• Accessible explanations with practical examples.\n• Valuable for applied researchers working with discrete outcomes.\nRecommended level: Intermediate to Advanced",
+        "Summary": "Nonparametric Statistical Methods — Hollander & Wolfe\nA classic text on nonparametric inference: rank tests, permutation methods, goodness‑of‑fit tests, and nonparametric regression and estimation techniques.\nKey strengths & uses:\n• Careful exposition of rank and permutation methods.\n• Good balance between theory and application.\n• Useful when model assumptions are suspect.\nRecommended level: Intermediate to Advanced (nonparametric methods)"
+    }
+]
